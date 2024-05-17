@@ -1,5 +1,10 @@
 programa{
     funcao inicio () {
-        escreva("Hello world")
+        escreva("Ola world")
+        escreva("Ola world")
+        escreva("Ola world")
+        escreva("Ola world")
+        escreva("Ola world")
+        
     }
 }
